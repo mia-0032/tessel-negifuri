@@ -1,0 +1,26 @@
+{
+  "name": "tessel-simple-negifuri",
+  "version": "1.0.0",
+  "description": "simple negifuri with servo and tessel.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mia-0032/tessel-simple-negifuri.git"
+  },
+  "keywords": [
+    "tessel",
+    "servo"
+  ],
+  "author": "mia-0032",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mia-0032/tessel-simple-negifuri/issues"
+  },
+  "homepage": "https://github.com/mia-0032/tessel-simple-negifuri",
+  "dependencies": {
+    "async": "^0.9.0"
+  }
+}
